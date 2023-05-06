@@ -1,0 +1,1 @@
+For Sysdig IaC Scanning test.
